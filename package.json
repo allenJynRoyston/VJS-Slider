@@ -1,0 +1,25 @@
+{
+  "name": "vjs-slider",
+  "version": "1.0.0",
+  "description": "A vanilla js image slider",
+  "main": "slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenRoyston/VJS-Slider.git"
+  },
+  "keywords": [
+    "Gallery",
+    "VanillaJS",
+    "Classes",
+    "Slider"
+  ],
+  "author": "Allen Royston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allenRoyston/VJS-Slider/issues"
+  },
+  "homepage": "https://github.com/allenRoyston/VJS-Slider#readme"
+}
