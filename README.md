@@ -1,4 +1,5 @@
 # VJS-Slider
+[![npm version](https://badge.fury.io/js/vjs-slider.svg)](https://badge.fury.io/js/vjs-slider)
 
 ### Description
 VJ-Slider is a lightweight image slider made with just basic Javascript. No jQuery dependency, simple installation and highly customizable. [Check it out!](https://vj-slider.herokuapp.com/)
