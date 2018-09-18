@@ -4,10 +4,10 @@
 VJ-Slider is a lightweight image slider made with just basic Javascript. No jQuery dependency, simple installation and highly customizable. [Check it out!](https://vj-slider.herokuapp.com/)
 
 ### Features galore
+- Animation and easings
 - Autoplay
 - Preload
 - Lazyload
-- Animation and easings
 - Easily change the look and feel with just a few quick css edits.
 - Small size (.js and .css < 30kb)
 
